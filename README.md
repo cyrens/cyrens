@@ -4,7 +4,7 @@
 --- 
 
 ## 📊 Statistik GitHub Saya
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrens&show_icons=true&theme=tokyonight)
 
 ## 🌟 Proyek Utama
 - [Proyek A](link-ke-repositori) - Deskripsi singkat proyek ini
