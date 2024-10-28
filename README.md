@@ -1,4 +1,4 @@
-# 👋 Halo, saya [Nama Anda]!
+# 👋 Halo, saya Andre!
 💻 **Web Developer** | 🎨 **UI/UX Enthusiast**
 
 --- 
